@@ -2,8 +2,7 @@
 
 # Airlines Data Analytics for Avaition Industry
 
-
-     -DATA ANALYTICS-
+- CATEGORY   : DATA ANALYTICS
 - TEAM ID    : PNT2022TMID25890
 
 # TEAM LEADER
